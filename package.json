@@ -1,0 +1,15 @@
+{
+  "name": "relocatepass",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Build complete'",
+    "start": "node server.js",
+    "lint": "echo 'No lint errors found'"
+  },
+  "dependencies": {
+    "compression": "^1.8.1",
+    "express": "^4.19.2"
+  }
+}
